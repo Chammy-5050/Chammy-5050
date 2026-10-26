@@ -16,7 +16,7 @@ I enjoy learning new technologies, collaborating with others, and turning ideas 
 - 🗄️ Exploring databases, PostgreSQL, and data management
 - 🌐 Interested in networking, troubleshooting, and secure systems
 - 🤖 Exploring Data Science and Artificial Intelligence
-- 🇹🇿 Based in Tanzania
+-  Based in Tanzania
 
 ## 🛠️ Technologies & Tools
 
@@ -52,7 +52,7 @@ Explore my repositories to see what I'm building.
 ## 📫 Connect With Me
 
 - GitHub: [@Chammy-5050](https://github.com/Chammy-5050)
-- LinkedIn: Add your LinkedIn profile URL here.
+- LinkedIn: https://www.linkedin.com/in/kabwe-kassim-83283242a/
 
 ---
 
